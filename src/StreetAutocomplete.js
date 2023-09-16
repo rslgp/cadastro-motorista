@@ -91,7 +91,7 @@ try {
 	if(document.getElementById("numero").value){
 		numero = document.getElementById("numero").value
 	}
-	set(ref(db, 'streets/'+numero+": "+street), {
+	set(ref(db, 'motorista/'+numero+": "+street), {
     endereco: street,
 	hora: new Date().toISOString(),
 	nome:document.getElementById("motorista").value,
