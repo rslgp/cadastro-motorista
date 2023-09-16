@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cadastro-motorista/static/css/main.93a83929.css",
+    "main.js": "/cadastro-motorista/static/js/main.47888983.js",
+    "static/js/787.b3b6fd50.chunk.js": "/cadastro-motorista/static/js/787.b3b6fd50.chunk.js",
+    "static/media/logo.svg": "/cadastro-motorista/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cadastro-motorista/index.html",
+    "main.93a83929.css.map": "/cadastro-motorista/static/css/main.93a83929.css.map",
+    "main.47888983.js.map": "/cadastro-motorista/static/js/main.47888983.js.map",
+    "787.b3b6fd50.chunk.js.map": "/cadastro-motorista/static/js/787.b3b6fd50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a83929.css",
+    "static/js/main.47888983.js"
+  ]
+}
